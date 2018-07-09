@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://ad.infoxgame.com/YinHuOA-H5/app/ios/yh.ipa</string>
+     <string>https://47.98.111.68/LiveApi/AppUpdatePackage/LiveBox.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -38,10 +38,10 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.yinhu.yhht</string>
+    <string>io.dcloud.H50EC0187</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.0.0</string>
+    <string>1.0.2</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
